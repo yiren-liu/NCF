@@ -9,7 +9,7 @@ Created on Jan 23, 2018
 #sys.path.append('F:\\PycharmProjects\\NeuralCF_tensorflow\\NeuralCF_tensorflow\\Data\\ml-1m')
 
 from models import utils
-from dataio import ImpDataset
+from models import ImpDataset
 import math 
 import tensorflow as tf 
 from models.evaluation import *

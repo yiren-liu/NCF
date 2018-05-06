@@ -4,7 +4,7 @@ Created on Jan 23, 2018
 @author: v-lianji
 '''
 from models import utils 
-from dataio import ImpDataset
+from models import ImpDataset
 import tensorflow as tf 
  
 
